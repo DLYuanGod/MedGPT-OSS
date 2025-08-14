@@ -23,7 +23,7 @@
   *MedGPT-oss was built by adopting GPT-oss as the underlying language model, upon which we integrated a multimodal architecture (Clip or MedSiglip as Visual Encoder) and subsequently performed medical-domain training through a curriculum learning strategy, starting with medical image caption alignment and followed by comprehensive instruction tuning.*
 </p>
 
-## Evaluation Results
+## Eveluation Results
 
 | Model                              |  OmniMedVQA  |
 |------------------------------------|--------|
