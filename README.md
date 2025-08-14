@@ -57,3 +57,4 @@ Checkpoint and Training Code will Coming Soon.....
 
 - [LLaVA-Med](https://github.com/microsoft/LLaVA-Med/tree/main)
 - [GPT-oss](https://github.com/openai/gpt-oss)
+- [MedVInT](https://github.com/xiaoman-zhang/PMC-VQA)
