@@ -29,10 +29,11 @@
 |------------------------------------|--------|
 | LLaVA-Med                          | 29.88  |
 | MedVInT                            | 41.26  |
-| MedGemma                           | 42.33  |
-| **MedGPT-OSS (CLIP + GPT-oss 20B)**   | **51.49**  |
+| MedGemma**                           | 42.33  |
+| **MedGPT-OSS (CLIP + GPT-oss 20B)**   | **50.19**  |
 | **MedGPT-OSS (CLIP + GPT-oss 120B)**   | Coming Soon  |
 
+(** Some inference parameters need to be set.)
 
 [![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
 **Usage and License Notices**: The data, code, and model checkpoints are intended and licensed for research use only. They are also subject to additional restrictions dictated by the Terms of Use: GPT-oss respectively. The data is made available under CC BY NC 4.0. The data, code, and model checkpoints may be used for non-commercial purposes and any models trained using the dataset should be used only for research purposes. It is expressly prohibited for models trained on this data to be used in clinical care or for any clinical decision making purposes.
